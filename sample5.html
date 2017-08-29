@@ -1,0 +1,26 @@
+<html>
+<body>
+<script>
+    let arr = ["sravana","sandhya"];
+    let[firstName,lastName] = arr;
+    alert(firstName);
+    alert(lastName);
+
+    let user = {
+        name: "abc",
+        age: 30
+    };
+    for(let [key, value] of Object.entries(user)) {
+        alert(`${key}:${value}`);
+    }
+
+    /*let [name1,name2,...rest] = ["sravana","sandhya","kasam ","sravanasandhyasandhya"];
+    alert(name1);
+    alert(name2);
+
+    alert(rest[0]);
+    alert(rest[1]);
+    alert(rest.length);*/
+</script>
+</body>
+</html>

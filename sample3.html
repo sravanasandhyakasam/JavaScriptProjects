@@ -1,0 +1,44 @@
+<html>
+<body>
+
+<script>
+    let john = {
+      name : "sandhya"
+    };
+    let visitCountMap = new Map();
+    visitCountMap.set(john,123);
+
+    alert(visitCountMap.get(john));
+
+    let receipeMap = new Map(Object.entries({
+
+        'tomato' : 100,
+        'cucumber':350,
+        'carrot':200,
+        'onion' : 300
+
+    }));
+
+    for(let vegetables of receipeMap.keys())
+    {
+        alert(vegetables);
+    }
+
+    for(let amount of receipeMap.values())
+    {
+        alert(amount);
+    }
+
+    for(let entry of receipeMap.entries())
+    {
+        alert(entry);
+    }
+
+    let set = new Set(["kasam", "sravana", "sandhya"]);
+
+    for (let names of set){
+        alert(names);
+    }
+</script>
+</body>
+</html>
