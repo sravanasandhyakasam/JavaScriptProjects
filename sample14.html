@@ -1,0 +1,29 @@
+<!-- Object handlers: handleEvent
+We can assign an object as an event handler using addEventListener. When an event occurs, its handleEvent method is called with it
+when addEventListener receives an object as the handler, it calls object.handleEvent(event) in case of an event.
+We could also use a class for that-->
+<html>
+<body>
+<button id="elem">Click Me!</button>
+<script>
+    class Menu{
+        handleEvent(event){
+            switch(event.type)
+            {
+                case 'mousedown':
+                    elem.innerHTML = "mouse button pressed...";
+                    break;
+                case 'mouseup':
+                    elem.innerHTML = "mouse released...";
+                    break;
+            }
+        }
+
+    }
+//The menu object only gets mousedown and mouseup here, not any other types of events.
+    let menu= new Menu();
+    elem.addEventListener('mousedown',menu);
+    elem.addEventListener('mouseup',menu)
+</script>
+</body>
+</html>

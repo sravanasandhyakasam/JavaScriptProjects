@@ -1,0 +1,38 @@
+<!--This Sample explains about events.To react on events we can assign a handler – a function that runs in case of an event.
+Handlers is a way to run JavaScript code in case of user actions.-->
+<html>
+<body>
+<script>
+//Here a click runs the function countOfAndroid()
+    function countOfAndroid()
+    {
+        for(let i=1;i<=3;i++)
+        {
+            alert("Count of Android:: "+ i);
+        }
+    }
+
+</script>
+<!--On mouse click, the code inside onclick runs.-->
+<input type="button" onclick="countOfAndroid()" value="Click Me!">
+
+<!-- The handler is always in the DOM property: the HTML-attribute is just one of the ways to initialize it.-->
+<input type="button" id="buttonid" value="ButtonClick!">
+
+<script>
+   buttonid.onclick = function(){
+       alert("DOM");
+   }
+</script>
+<!-- As there’s only one onclick property, we can’t assign more than one event handler. -->
+
+<input type="button" id="buttonid2" onclick="alert('before replace')" value="Replace Function!">
+<script>
+    buttonid2.onclick = function () {
+        alert("After Replace..");
+    }
+
+</script>
+
+</body>
+</html>

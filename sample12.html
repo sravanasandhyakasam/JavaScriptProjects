@@ -1,0 +1,20 @@
+<!--Web-standard developers understood that long ago and suggested an alternative way of managing handlers
+using special methods addEventListener and removeEventListener. They are free of such a problem. The below is sample for eventListener -->
+<html>
+<body>
+<input id="element" type="button" value="EventListener!"/>
+<script>
+    function handler1()
+    {
+        alert("Thanks!");
+    };
+    function handler2()
+    {
+        alert("Thanks again!");
+    }
+
+    element.addEventListener("click1",handler1);
+    element.addEventListener("click2",handler2);
+</script>
+</body>
+</html>

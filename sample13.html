@@ -1,0 +1,22 @@
+<!-- When an event happens, the browser creates an event object, puts details into it and passes it as an argument to the handler.
+Here’s an example of getting mouse coordinates from the event object
+Some properties of event object:
+event.type
+Event type, here it’s "click".
+event.currentTarget
+Element that handled the event. That’s exactly the same as this, unless you bind this to something else, and then event.currentTarget becomes useful.
+event.clientX / event.clientY
+Window-relative coordinates of the cursor, for mouse events.-->
+<html>
+<body>
+<input type="button" id="elem" value="Click Me!"/>
+<script>
+
+    elem.onclick = function (event) {
+        // show event type, element and coordinates of the click
+        alert(event.type +" at "+ event.currentTarget);
+        alert("Cordinates:::::" + event.clientX +":"+ event.clientY);
+    }
+</script>
+</body>
+</html>

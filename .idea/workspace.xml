@@ -21,76 +21,6 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="sample1.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/sample1.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="153">
-              <caret line="9" column="0" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="sample2.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/sample2.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="153">
-              <caret line="9" column="0" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="sample3.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/sample3.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="442">
-              <caret line="26" column="34" selection-start-line="26" selection-start-column="34" selection-end-line="26" selection-end-column="34" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="sample4.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/sample4.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="340">
-              <caret line="20" column="9" selection-start-line="20" selection-start-column="9" selection-end-line="20" selection-end-column="9" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="sample5.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/sample5.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="289">
-              <caret line="17" column="17" selection-start-line="17" selection-start-column="17" selection-end-line="17" selection-end-column="17" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="sample6.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/sample6.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="221">
-              <caret line="13" column="0" selection-start-line="13" selection-start-column="0" selection-end-line="13" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="sample7.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/sample7.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="238">
-              <caret line="14" column="23" selection-start-line="14" selection-start-column="23" selection-end-line="14" selection-end-column="23" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="sample8.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/sample8.html">
           <provider selected="true" editor-type-id="text-editor">
@@ -111,11 +41,81 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="sample10.html" pinned="false" current-in-tab="true">
+      <file leaf-file-name="sample10.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/sample10.html">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="255">
               <caret line="15" column="9" selection-start-line="15" selection-start-column="9" selection-end-line="15" selection-end-column="9" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Sample11.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Sample11.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="308">
+              <caret line="29" column="8" selection-start-line="29" selection-start-column="8" selection-end-line="29" selection-end-column="8" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="sample12.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/sample12.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="68">
+              <caret line="4" column="48" selection-start-line="4" selection-start-column="48" selection-end-line="4" selection-end-column="48" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="sample13.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/sample13.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="17">
+              <caret line="1" column="68" selection-start-line="1" selection-start-column="68" selection-end-line="1" selection-end-column="68" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="sample14.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/sample14.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="374">
+              <caret line="22" column="86" selection-start-line="22" selection-start-column="86" selection-end-line="22" selection-end-column="86" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="sample15.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/sample15.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="221">
+              <caret line="13" column="16" selection-start-line="13" selection-start-column="16" selection-end-line="13" selection-end-column="16" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="sample15.css" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/sample15.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="544">
+              <caret line="32" column="1" selection-start-line="32" selection-start-column="1" selection-end-line="32" selection-end-column="1" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="sample15.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/sample15.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="102">
+              <caret line="6" column="2" selection-start-line="6" selection-start-column="2" selection-end-line="6" selection-end-column="2" />
               <folding />
             </state>
           </provider>
@@ -145,6 +145,13 @@
         <option value="$PROJECT_DIR$/sample8.html" />
         <option value="$PROJECT_DIR$/sample9.html" />
         <option value="$PROJECT_DIR$/sample10.html" />
+        <option value="$PROJECT_DIR$/Sample11.html" />
+        <option value="$PROJECT_DIR$/sample12.html" />
+        <option value="$PROJECT_DIR$/sample13.html" />
+        <option value="$PROJECT_DIR$/sample14.html" />
+        <option value="$PROJECT_DIR$/sample15.css" />
+        <option value="$PROJECT_DIR$/sample15.js" />
+        <option value="$PROJECT_DIR$/sample15.html" />
       </list>
     </option>
   </component>
@@ -214,20 +221,20 @@
     <property name="HbShouldOpenHtmlAsHb" value="" />
     <property name="js-jscs-nodeInterpreter" value="C:\Program Files\nodejs\node.exe" />
   </component>
-  <component name="RunManager" selected="JavaScript Debug.sample10.html">
-    <configuration default="false" name="sample6.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/JavaScriptInfoProject/sample6.html">
+  <component name="RunManager" selected="JavaScript Debug.sample15.html">
+    <configuration default="false" name="Sample11.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/JavaScriptInfoProject/Sample11.html">
       <method />
     </configuration>
-    <configuration default="false" name="sample7.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/JavaScriptInfoProject/sample7.html">
+    <configuration default="false" name="sample12.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/JavaScriptInfoProject/sample12.html">
       <method />
     </configuration>
-    <configuration default="false" name="sample8.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/JavaScriptInfoProject/sample8.html">
+    <configuration default="false" name="sample13.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/JavaScriptInfoProject/sample13.html">
       <method />
     </configuration>
-    <configuration default="false" name="sample9.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/JavaScriptInfoProject/sample9.html">
+    <configuration default="false" name="sample14.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/JavaScriptInfoProject/sample14.html">
       <method />
     </configuration>
-    <configuration default="false" name="sample10.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/JavaScriptInfoProject/sample10.html">
+    <configuration default="false" name="sample15.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/JavaScriptInfoProject/sample15.html">
       <method />
     </configuration>
     <configuration default="true" type="DartCommandLineRunConfigurationType" factoryName="Dart Command Line Application">
@@ -288,19 +295,19 @@
     </configuration>
     <list size="6">
       <item index="0" class="java.lang.String" itemvalue="JavaScript Debug.helloworld" />
-      <item index="1" class="java.lang.String" itemvalue="JavaScript Debug.sample6.html" />
-      <item index="2" class="java.lang.String" itemvalue="JavaScript Debug.sample7.html" />
-      <item index="3" class="java.lang.String" itemvalue="JavaScript Debug.sample8.html" />
-      <item index="4" class="java.lang.String" itemvalue="JavaScript Debug.sample9.html" />
-      <item index="5" class="java.lang.String" itemvalue="JavaScript Debug.sample10.html" />
+      <item index="1" class="java.lang.String" itemvalue="JavaScript Debug.Sample11.html" />
+      <item index="2" class="java.lang.String" itemvalue="JavaScript Debug.sample12.html" />
+      <item index="3" class="java.lang.String" itemvalue="JavaScript Debug.sample13.html" />
+      <item index="4" class="java.lang.String" itemvalue="JavaScript Debug.sample14.html" />
+      <item index="5" class="java.lang.String" itemvalue="JavaScript Debug.sample15.html" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="JavaScript Debug.sample10.html" />
-        <item index="1" class="java.lang.String" itemvalue="JavaScript Debug.sample9.html" />
-        <item index="2" class="java.lang.String" itemvalue="JavaScript Debug.sample8.html" />
-        <item index="3" class="java.lang.String" itemvalue="JavaScript Debug.sample7.html" />
-        <item index="4" class="java.lang.String" itemvalue="JavaScript Debug.sample6.html" />
+        <item index="0" class="java.lang.String" itemvalue="JavaScript Debug.sample15.html" />
+        <item index="1" class="java.lang.String" itemvalue="JavaScript Debug.sample14.html" />
+        <item index="2" class="java.lang.String" itemvalue="JavaScript Debug.sample13.html" />
+        <item index="3" class="java.lang.String" itemvalue="JavaScript Debug.sample12.html" />
+        <item index="4" class="java.lang.String" itemvalue="JavaScript Debug.Sample11.html" />
       </list>
     </recent_temporary>
   </component>
@@ -318,18 +325,18 @@
       <option name="presentableId" value="Default" />
       <updated>1503471342920</updated>
       <workItem from="1503471344372" duration="11632000" />
-      <workItem from="1503984715637" duration="13847000" />
+      <workItem from="1503984715637" duration="20676000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="25479000" />
+    <option name="totallyTimeSpent" value="32308000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="1" y="1" width="1364" height="726" extended-state="0" />
-    <editor active="true" />
+    <editor active="false" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -486,6 +493,62 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="255">
           <caret line="15" column="9" selection-start-line="15" selection-start-column="9" selection-end-line="15" selection-end-column="9" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Sample11.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="308">
+          <caret line="29" column="8" selection-start-line="29" selection-start-column="8" selection-end-line="29" selection-end-column="8" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sample12.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="48" selection-start-line="4" selection-start-column="48" selection-end-line="4" selection-end-column="48" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sample13.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="1" column="68" selection-start-line="1" selection-start-column="68" selection-end-line="1" selection-end-column="68" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sample14.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="374">
+          <caret line="22" column="86" selection-start-line="22" selection-start-column="86" selection-end-line="22" selection-end-column="86" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sample15.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="544">
+          <caret line="32" column="1" selection-start-line="32" selection-start-column="1" selection-end-line="32" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sample15.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="2" selection-start-line="6" selection-start-column="2" selection-end-line="6" selection-end-column="2" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sample15.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="13" column="16" selection-start-line="13" selection-start-column="16" selection-end-line="13" selection-end-column="16" />
           <folding />
         </state>
       </provider>
