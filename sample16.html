@@ -1,0 +1,49 @@
+<!--The event delegation may be used to optimize event handling. We use a single handler for similar actions
+on many elements. Like we did it for highlighting <td>.
+For instance, we want to make a menu with buttons “Save”, “Load”, “Search” and so on. And there’s an object with methods save, load, search….
+The first idea may be to assign a separate handler to each button. But there’s a more elegant solution. We can add a handler for the whole menu and data-action attributes for buttons that has the method to call-->
+
+<!DOCTYPE HTML>
+<html>
+<head>
+    <meta charset="utf-8">
+</head>
+<body>
+<div id="menu">
+    <button data-action="Save">Save</button>
+    <button data-action="Load">Load</button>
+    <button data-action="Search">Search</button>
+</div>
+<script>
+
+    class Menu{
+        constructor(elem){
+            this._elem=elem;
+            elem.onclick = this.onClick.bind(this);
+        }
+        save()
+        {
+            alert('saving...');
+        }
+        load()
+        {
+            alert('loading..');
+        }
+        search()
+        {
+            alert('searching...');
+        }
+
+        onClick(event) {
+            let action = event.target.dataset.action;
+            if (action) {
+                this[action]();
+            }
+        };
+    }
+
+    new Menu(menu);
+</script>
+
+</body>
+</html>

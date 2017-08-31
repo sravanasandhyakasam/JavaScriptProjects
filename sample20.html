@@ -1,0 +1,23 @@
+<!--here may be multiple elements with the same name, that’s often the case with radio buttons.
+In that case form.elements[name] is a collection, for instance: -->
+<!DOCTYPE HTML>
+<html>
+<head>
+    <meta charset="utf-8">
+</head><body>
+
+<form>
+    <input type="radio" name="age" value="10">
+    <input type="radio" name="age" value="20">
+</form>
+
+<script>
+    let form = document.forms[0];
+
+    let ageElems = form.elements.age;
+
+    alert(ageElems[0].value); // 10, the first input value
+</script>
+
+</body>
+</html>

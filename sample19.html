@@ -1,0 +1,26 @@
+<!-- Document forms are members of the special collection document.forms.
+That’s a named collection: we can use both the name and the number to get the form.
+When we have a form, then any element is available in the named collection form.elements.-->
+<!DOCTYPE HTML>
+<html>
+<head>
+    <meta charset="utf-8">
+</head><body>
+
+<form name="my">
+    <input name="one" value="1">
+    <input name="two" value="2">
+</form>
+
+<script>
+    // get the form
+    let form = document.forms.my; // <form name="my"> element
+
+    // get the element
+    let elem = form.elements.one; // <input name="one"> element
+
+    alert(elem.value); // 1
+</script>
+
+</body>
+</html>
