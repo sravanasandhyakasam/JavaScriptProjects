@@ -1,0 +1,39 @@
+<!-- Both properties return the sizes in pixels:
+window.innerHeight - the inner height of the browser window (in pixels)
+window.innerWidth - the inner width of the browser window (in pixels)
+The browser window (the browser viewport) is NOT including toolbars and scrollbars.
+The example displays the browser window's height and width: (NOT including toolbars/scrollbars)-->
+<!DOCTYPE html>
+<html>
+<body>
+
+<p id="demo"></p>
+<p id="screenwidth"></p>
+<p id="screenheight"></p>
+<p id="availwidth"></p>
+<p id="availheight"></p>
+<p id="colorDepth"></p>
+
+<script>
+    var width = window.innerWidth
+            || document.documentElement.clientWidth
+            || document.body.clientWidth;
+
+    var height = window.innerHeight
+            || document.documentElement.clientHeight
+            || document.body.clientHeight;
+
+
+
+    var x = document.getElementById("demo");
+    x.innerHTML = "Browser inner window width: " + width + ", height: " + height + ".";
+
+    document.getElementById("screenwidth").innerHTML = "Screen Width: " + screen.width;
+    document.getElementById("screenheight").innerHTML = "Screen Height: " + screen.height;
+    document.getElementById("availwidth").innerHTML ="Available Screen Width: " + screen.availWidth;
+    document.getElementById("availheight").innerHTML ="Available Screen Width: " + screen.availHeight;
+    document.getElementById("colorDepth").innerHTML = "Screen Color Depth: " + screen.colorDepth;
+</script>
+
+</body>
+</html>

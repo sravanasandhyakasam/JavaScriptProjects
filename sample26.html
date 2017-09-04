@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html>
+<body>
+
+<h2>The Navigator Object</h2>
+
+<p>The cookieEnabled property returns true if cookies are enabled:</p>
+
+<p id="demo"></p>
+<p id="appname"></p>
+<p id="appcodename"></p>
+<p id="product"></p>
+<p id="appversion"></p>
+<p id="useragent"></p>
+<p id="platform"></p>
+<p id="lang"></p>
+<p id="online"></p>
+
+<script>
+    document.getElementById("demo").innerHTML ="navigator.cookieEnabled is " + navigator.cookieEnabled;
+    document.getElementById("appname").innerHTML ="navigator.appName is " + navigator.appName;
+    document.getElementById("appcodename").innerHTML ="navigator.appCodeName is " + navigator.appCodeName;
+    document.getElementById("product").innerHTML = "navigator.product is " + navigator.product;
+    document.getElementById("appversion").innerHTML = navigator.appVersion;
+    document.getElementById("useragent").innerHTML = navigator.userAgent;
+    document.getElementById("platform").innerHTML = navigator.platform;
+    document.getElementById("lang").innerHTML = navigator.language;
+    document.getElementById("online").innerHTML = navigator.onLine;
+</script>
+
+</body>
+</html>

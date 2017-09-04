@@ -1,0 +1,31 @@
+<!-- Example explained:
+Create a collection of all <p> elements
+Display the length of the collection
+The length property is useful when you want to loop through the elements in a collection-->
+<!DOCTYPE html>
+<html>
+<body>
+
+<h2>JavaScript HTML DOM</h2>
+
+<p>Hello World!</p>
+
+<p>Hello sandhya!</p>
+
+<p>Click the button to change the color of all p elements.</p>
+
+<button onclick="myFunction()">Try it</button>
+
+<script>
+    function myFunction() {
+        var myCollection = document.getElementsByTagName("p");
+       // var myNodelist = document.querySelectorAll("p");
+        var i;
+        for (i = 0; i < myCollection.length; i++) {
+            myCollection[i].style.color = "brown";
+        }
+    }
+</script>
+
+</body>
+</html>
